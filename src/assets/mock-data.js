@@ -1,0 +1,236 @@
+export const questions=[
+{
+   "id":43,
+   "question":"How many mosquitoes die every year?",
+   "answer":"33500000000000",
+   "author":{
+      "id":10,
+      "isAdmin":false,
+      "username":"g908",
+      "photo":{
+         "filename":"caras/foto008.jpeg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/caras/foto008.jpeg"
+      }
+   },
+   "attachment":{
+      "filename":"mosquito-facts-for-kids.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/ce030563dde045db8aee64123270ed686336595bc9f4849b6e04e7308ba74f03"
+   },
+   "favourite":false,
+   "tips":["3..."]
+},
+{
+   "id":29,
+   "question":"Capital of Finland",
+   "answer":"Helsinki",
+   "author":{
+      "id":1,
+      "isAdmin":true,
+      "username":"admin",
+      "photo":{
+         "filename":"lechuck.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+      }
+   },
+   "attachment":{
+      "filename":"capitals/Helsinki.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/capitals/Helsinki.jpg"
+   },
+   "favourite":false,
+   "tips":[
+   ]
+},
+{
+   "id":42,
+   "question":"What flexbox property indicates how to align items in the secondary axis?",
+   "answer":"align-items",
+   "author":{
+      "id":104,
+      "isAdmin":false,
+      "username":"sonsoles",
+      "photo":{
+         "filename":"Captura de pantalla 2019-09-20 a las 11.46.06.png",
+         "mime":"image/png",
+         "url":"https://quiz.dit.upm.es/uploads/e4df469d881176e6ea034209fa5a535583233ce5e0b85f698d60451ffe0370bf"
+      }
+   },
+   "attachment":{
+      "filename":"align1.png",
+      "mime":"image/png",
+      "url":"https://quiz.dit.upm.es/uploads/b29b8664482a14a03acd75a133503c98853a06b69c4e79a213ca03db5b00a72a"
+   },
+   "favourite":false,
+   "tips":[
+   ]
+},
+{
+   "id":21,
+   "question":"Capital of Estonia",
+   "answer":"Tallinn",
+   "author":{
+      "id":1,
+      "isAdmin":true,
+      "username":"admin",
+      "photo":{
+         "filename":"lechuck.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+      }
+   },
+   "attachment":{
+      "filename":"capitals/Tallinn.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/capitals/Tallinn.jpg"
+   },
+   "favourite":false,
+   "tips":[
+   ]
+},
+{
+   "id":19,
+   "question":"Capital of Azerbaijan",
+   "answer":"Baku",
+   "author":{
+      "id":1,
+      "isAdmin":true,
+      "username":"admin",
+      "photo":{
+         "filename":"lechuck.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+      }
+   },
+   "attachment":{
+      "filename":"capitals/Baku.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/capitals/Baku.jpg"
+   },
+   "favourite":false,
+   "tips":[
+   ]
+},
+{
+   "id":25,
+   "question":"Capital of Egypt",
+   "answer":"Cairo",
+   "author":{
+      "id":1,
+      "isAdmin":true,
+      "username":"admin",
+      "photo":{
+         "filename":"lechuck.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+      }
+   },
+   "attachment":{
+      "filename":"capitals/Cairo.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/capitals/Cairo.jpg"
+   },
+   "favourite":false,
+   "tips":[
+   ]
+},
+{
+   "id":26,
+   "question":"Capital of Sweden",
+   "answer":"Stockholm",
+   "author":{
+      "id":1,
+      "isAdmin":true,
+      "username":"admin",
+      "photo":{
+         "filename":"lechuck.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+      }
+   },
+   "attachment":{
+      "filename":"capitals/Stockholm.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/capitals/Stockholm.jpg"
+   },
+   "favourite":false,
+   "tips":[
+   "Empieza por S"
+   ]
+},
+{
+   "id":16,
+   "question":"Capital of Ecuador",
+   "answer":"Quito",
+   "author":{
+      "id":1,
+      "isAdmin":true,
+      "username":"admin",
+      "photo":{
+         "filename":"lechuck.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+      }
+   },
+   "attachment":{
+      "filename":"capitals/Quito.jpg",
+      "mime":"image/jpeg",
+      "url":"https://quiz.dit.upm.es/uploads/capitals/Quito.jpg"
+   },
+   "favourite":false,
+   "tips":[
+   ]
+   },
+   {
+      "id":38,
+      "question":"Serie de TV",
+      "answer":"Perdidos",
+      "author":{
+         "id":103,
+         "isAdmin":false,
+         "username":"spg",
+         "photo":{
+            "filename":"spg072.jpg",
+            "mime":"image/jpeg",
+            "url":"https://quiz.dit.upm.es/uploads/ef8c7ae4f48fc6c82f6c530b1dcd9c51fc2f4d6f2215b7ea78a048fae23c78ac"
+         }
+      },
+      "attachment":{
+         "filename":"dharma.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/a844b936a88c547f51857f515209eb0ff0ea7a41e65a02ba466e82934d012418"
+      },
+      "favourite":false,
+      "tips":[
+      "El final deja que desear",
+      "El final está muy bien",
+      "4 8 15 16 23 42"
+      ]
+   },
+   {
+      "id":11,
+      "question":"Capital of Canada",
+      "answer":"Ottawa",
+      "author":{
+         "id":1,
+         "isAdmin":true,
+         "username":"admin",
+         "photo":{
+            "filename":"lechuck.jpg",
+            "mime":"image/jpeg",
+            "url":"https://quiz.dit.upm.es/uploads/120e194dd3a5a1fc88b1d1f2e977b7372f5aa18fab64765ce4b9d4b17b987da7"
+         }
+      },
+      "attachment":{
+         "filename":"capitals/Ottawa.jpg",
+         "mime":"image/jpeg",
+         "url":"https://quiz.dit.upm.es/uploads/capitals/Ottawa.jpg"
+      },
+      "favourite":false,
+      "tips":[
+      "Not Toronto"
+      ]
+   }
+]
